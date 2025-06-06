@@ -99,7 +99,8 @@ if __name__ == "__main__":
         # 'HookyQR.minify',
         # 'xdebug.php-debug',
         # 'bmewburn.vscode-intelephense-client',
-        'ms-python.black-formatter'
+        # 'ms-python.black-formatter',
+        'GitHub.github-vscode-theme'
     ]
     
     for item_name in item_names:
